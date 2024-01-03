@@ -84397,7 +84397,7 @@ s=p}while(true)switch(s){case 0:b=t.N
 a=A.aI(["Content-Type","application/json"],b,b)
 p=4
 s=7
-return A.Q(A.aX1(A.aGN("http","91.92.213.66:8000","users/list/",null),a),$async$w2)
+return A.Q(A.aX1(A.aGN("https","91.92.213.66:8000","users/list/",null),a),$async$w2)
 case 7:m=a2
 if(m.b===200){b=m
 l=B.c0.G0(0,A.aIa(A.aH6(b.e).c.a.i(0,"charset")).ek(0,b.w),null)
@@ -84563,7 +84563,7 @@ h=A.aI(["Content-Type","application/json"],i,i)
 g=A.aI(["name",a,"machine_name",b,"location_long",c,"location_lat",d],i,i)
 p=4
 s=7
-return A.Q(A.aY9(A.aGN("http","91.92.213.66:8000","users/list/",null),B.c0.Tw(g,null),A.ayE("utf-8"),h),$async$z_)
+return A.Q(A.aY9(A.aGN("https","91.92.213.66:8000","users/list/",null),B.c0.Tw(g,null),A.ayE("utf-8"),h),$async$z_)
 case 7:n=a0
 if(n.b===201){i=n
 m=B.c0.G0(0,A.aIa(A.aH6(i.e).c.a.i(0,"charset")).ek(0,i.w),null)
