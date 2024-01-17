@@ -83923,7 +83923,7 @@ b===$&&A.a()
 n=A.av(["id",a3,"name",g.b,"machine_name",f.c,"location_long",e.d,"location_lat",d.e,"status",c,"icon",B.e.k(b.r)],a1,a1)
 q=3
 s=6
-return A.Y(A.awS(A.Ik("https","91.92.213.66:8000","users/list/",null),B.aJ.q7(n,null),A.ua("utf-8"),a2),$async$w8)
+return A.Y(A.awS(A.Ik("https","mineweb.liara.run","users/list/",null),B.aJ.q7(n,null),A.ua("utf-8"),a2),$async$w8)
 case 6:m=a6
 if(m.b===200){a1=m
 l=B.aJ.nt(0,A.Jl(A.Jb(a1.e).c.a.i(0,"charset")).dF(0,a1.w),null)
@@ -84046,7 +84046,7 @@ s=p}while(true)switch(s){case 0:e=t.N
 d=A.av(["Content-Type","application/json"],e,e)
 p=4
 s=7
-return A.Y(A.aWt(A.Ik("https","91.92.213.66:8000","users/list/",null),d),$async$w0)
+return A.Y(A.aWt(A.Ik("https","mineweb.liara.run","users/list/",null),d),$async$w0)
 case 7:m=b
 if(m.b===200){e=m
 l=B.aJ.nt(0,A.Jl(A.Jb(e.e).c.a.i(0,"charset")).dF(0,e.w),null)
@@ -84204,7 +84204,7 @@ h=A.av(["Content-Type","application/json"],i,i)
 g=A.av(["name",a,"machine_name",b,"location_long",c,"location_lat",d,"status",B.e.k(e),"icon",B.e.k(a0)],i,i)
 p=4
 s=7
-return A.Y(A.aXB(A.Ik("https","91.92.213.66:8000","users/list/",null),B.aJ.q7(g,null),A.ua("utf-8"),h),$async$z1)
+return A.Y(A.aXB(A.Ik("https","mineweb.liara.run","users/list/",null),B.aJ.q7(g,null),A.ua("utf-8"),h),$async$z1)
 case 7:n=a2
 if(n.b===201){i=n
 m=B.aJ.nt(0,A.Jl(A.Jb(i.e).c.a.i(0,"charset")).dF(0,i.w),null)
@@ -84556,7 +84556,7 @@ a1===$&&A.a()
 n=A.av(["id",a2,"name",h.b,"machine_name",g.c,"location_long",f.d,"location_lat",e.e,"status",d,"icon",B.e.k(a1.r)],a,a)
 p=4
 s=7
-return A.Y(A.awS(A.Ik("https","91.92.213.66:8000","users/list/",null),B.aJ.q7(n,null),A.ua("utf-8"),a0),$async$wa)
+return A.Y(A.awS(A.Ik("https","mineweb.liara.run","users/list/",null),B.aJ.q7(n,null),A.ua("utf-8"),a0),$async$wa)
 case 7:m=a7
 if(m.b===200){a=m
 l=B.aJ.nt(0,A.Jl(A.Jb(a.e).c.a.i(0,"charset")).dF(0,a.w),null)
@@ -84603,7 +84603,7 @@ a0===$&&A.a()
 n=A.av(["id",a1,"name",h.b,"machine_name",g.c,"location_long",f.d,"location_lat",e.e,"status",B.e.k(a0.f),"icon",B.e.k(a4)],b,b)
 p=4
 s=7
-return A.Y(A.awS(A.Ik("https","91.92.213.66:8000","users/list/",null),B.aJ.q7(n,null),A.ua("utf-8"),a),$async$w7)
+return A.Y(A.awS(A.Ik("https","mineweb.liara.run","users/list/",null),B.aJ.q7(n,null),A.ua("utf-8"),a),$async$w7)
 case 7:m=a6
 if(m.b===200){b=m
 l=B.aJ.nt(0,A.Jl(A.Jb(b.e).c.a.i(0,"charset")).dF(0,b.w),null)
@@ -84787,7 +84787,7 @@ g===$&&A.a()
 m=A.av(["id",a4,"name",f.b,"machine_name",e.c,"location_long",d,"location_lat",c,"status",b,"icon",B.e.k(g.r)],a2,a2)
 p=4
 s=7
-return A.Y(A.awS(A.Ik("https","91.92.213.66:8000","users/list/",null),B.aJ.q7(m,null),A.ua("utf-8"),a3),$async$w9)
+return A.Y(A.awS(A.Ik("https","mineweb.liara.run","users/list/",null),B.aJ.q7(m,null),A.ua("utf-8"),a3),$async$w9)
 case 7:l=a9
 if(l.b===200){a2=l
 k=B.aJ.nt(0,A.Jl(A.Jb(a2.e).c.a.i(0,"charset")).dF(0,a2.w),null)
